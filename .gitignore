@@ -1,0 +1,212 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual Environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+.conda/
+conda-env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# PyTorch & Deep Learning Models
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.hdf5
+*.pb
+*.onnx
+*.pkl
+*.pickle
+models/
+checkpoints/
+saved_models/
+weights/
+*.weights
+*.caffemodel
+*.model
+*.params
+
+# TensorBoard
+runs/
+logs/
+tensorboard/
+tb_logs/
+
+# Training artifacts
+*.log
+lightning_logs/
+wandb/
+mlruns/
+
+# Data directories (training and test data)
+data/
+dataset/
+datasets/
+train/
+test/
+val/
+validation/
+raw_data/
+processed_data/
+*.csv
+*.tsv
+*.dat
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.parquet
+*.feather
+
+# Image and video data
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.svg
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Audio data
+*.wav
+*.mp3
+*.flac
+*.ogg
+
+# Compressed archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.project
+.pydevproject
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+
+# Spyder
+.spyderproject
+.spyproject
+
+# Rope
+.ropeproject
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# Testing
+.pytest_cache/
+.tox/
+.coverage
+.coverage.*
+htmlcov/
+.hypothesis/
+*.cover
+*.py,cover
+nosetests.xml
+coverage.xml
+*.coveragerc
+
+# Unit test / coverage reports
+.cache
+.pytest_cache/
+
+# Profiling
+*.prof
+*.lprof
+
+# Temp files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~.nib
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+.envrc
+
+# Documentation
+docs/_build/
+site/
+
+# Misc
+*.orig
+*.rej
+.cache/
