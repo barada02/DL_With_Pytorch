@@ -21,17 +21,8 @@ This repository contains practice projects, experiments, and implementations for
 pip install torch torchvision numpy matplotlib tensorboard
 ```
 
-## 📂 Repository Structure
 
-```
-DL_With_Pytorch/
-├── notebooks/          # Jupyter notebooks for experiments
-├── models/            # Model architectures
-├── datasets/          # Custom datasets and data loaders
-├── training/          # Training scripts
-├── utils/             # Utility functions
-└── experiments/       # Experiment results and logs
-```
+
 
 ## 🚀 Topics Covered
 
